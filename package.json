@@ -2,7 +2,7 @@
   "name": "nd-oauth2-server",
   "description": "An Express OAuth2 server and authentication middleware.",
   "author": "Nascent Digital",
-  "version": "1.1.1",
+  "version": "1.2.0",
   "license": "MIT",
   "repository": {
     "type": "git",
