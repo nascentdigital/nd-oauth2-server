@@ -19,6 +19,7 @@
   "dependencies": {
     "lodash": "^4.14.0",
     "bluebird": "~3.4.1",
+    "node-uuid": "~1.4.7",
     "oauth2-server": "git://github.com/oauthjs/node-oauth2-server.git#cd7776c"
   },
   "devDependencies": {},
